@@ -45,3 +45,4 @@ Homepage event posters and banners are stored in `public/images`. New event post
 Accounts, passwords, sessions, events, seats and booking records are stored in the browser's Local Storage. This is intentionally simple for a college demonstration and is **not production-secure**. The payment flow is also a demonstration and does not charge a payment method.
 
 Vercel's `vercel.json` rewrites page requests to the React entry point so direct route visits and browser refreshes work with React Router.
+"# ticketly" 
